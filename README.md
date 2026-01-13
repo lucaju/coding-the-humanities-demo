@@ -3,8 +3,12 @@
 ## Teaching Demonstration
 
 **Course**: Coding the Humanities
+
 **Author**: Luciano Frizzera
+
 **Date**: 2025-01-14
+
+---
 
 This repository contains the materials for the demonstration of the Named Entity Reconciliation and Semantic Annotation in the "Coding the Humanities" course.
 
