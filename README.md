@@ -8,8 +8,8 @@
 
 This repository contains the materials for the demonstration of the Named Entity Reconciliation and Semantic Annotation in the "Coding the Humanities" course.
 
-You can find the a jupyter notebook for the course at [https://github.com/lucianofrizzera/coding-the-humanities-demo/notebooks/ner/ner-coding-the-humanities.ipynb](https://github.com/lucianofrizzera/coding-the-humanities-demo/notebooks/ner/ner-coding-the-humanities.ipynb).
+You can find the a [jupyter notebook file](https://github.com/lucaju/coding-the-humanities-demo/blob/main/notebooks/ner/ner-coding-the-humanities.ipynb) for this class in the `notebooks/ner` directory.
 
-Make sure to install the ``requirements.txt file before running the notebook.
+The data used in the notebook is available in the `notebooks/ner/data` directory.
 
-The data used in the notebook is available at [https://github.com/lucianofrizzera/coding-the-humanities-demo/notebooks/ner/data](https://github.com/lucianofrizzera/coding-the-humanities-demo/notebooks/ner/data).
+Make sure to install the `requirements.txt` file before running the notebook.
