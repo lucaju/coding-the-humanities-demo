@@ -1,0 +1,5 @@
+spacy
+pandas
+matplotlib
+seaborn
+networkx
